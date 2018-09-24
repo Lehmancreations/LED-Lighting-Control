@@ -4,4 +4,5 @@ Currently we have just designed this. We have not tested to know it is even goin
 
 
 TODO: 
-Add LED so we can blink when it is connecting to WiFi
+Switch term block to barrel jack
+fatter traces for power .016 power and data .01
