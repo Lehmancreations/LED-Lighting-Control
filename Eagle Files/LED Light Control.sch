@@ -5926,11 +5926,6 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf"&
 <sheet>
 <plain>
 <text x="53.34" y="114.3" size="1.778" layer="97" align="center">3.3V Voltage Regulator</text>
-<text x="22.86" y="40.64" size="1.778" layer="97">C3 helps in ripple rejection upto 15dB</text>
-<text x="22.86" y="35.56" size="1.778" layer="97">D1 protect the device against input short circuit</text>
-<text x="22.86" y="30.48" size="1.778" layer="97">D2 protect against output short circuit for capacitance discharging</text>
-<text x="22.86" y="25.4" size="1.778" layer="97">C2 of 1 µF tantalum capacitor on the output helps to improve transient response</text>
-<text x="22.86" y="45.72" size="1.778" layer="97">Useful Notes</text>
 <circle x="86.36" y="93.98" radius="1.79605" width="0.1524" layer="91"/>
 <text x="83.82" y="88.9" size="1.778" layer="97">3.3V, 800mA</text>
 <wire x1="0" y1="22.86" x2="119.38" y2="22.86" width="0.1524" layer="97" style="shortdash"/>
