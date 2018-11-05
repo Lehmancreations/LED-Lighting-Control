@@ -777,14 +777,14 @@ design rules under a new name.</description>
 <contactref element="JP1" pad="4"/>
 <contactref element="CN1" pad="GND"/>
 <polygon width="0.1524" layer="16">
-<vertex x="-0.508" y="94.234"/>
-<vertex x="53.34" y="94.234"/>
+<vertex x="-0.508" y="80.01"/>
+<vertex x="53.34" y="80.01"/>
 <vertex x="53.34" y="-1.016"/>
 <vertex x="-0.508" y="-1.016"/>
 </polygon>
 <polygon width="0.1524" layer="1">
-<vertex x="-0.508" y="94.234"/>
-<vertex x="53.34" y="94.234"/>
+<vertex x="-0.508" y="80.01"/>
+<vertex x="53.34" y="80.01"/>
 <vertex x="53.34" y="-1.016"/>
 <vertex x="-0.508" y="-1.016"/>
 </polygon>
