@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.0">
+<eagle version="9.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -168,10 +168,10 @@
 <text x="38.608" y="0.508" size="1.016" layer="25">GND</text>
 <text x="41.91" y="41.402" size="1.778" layer="26" rot="MR0">LEHMANCREATIONS</text>
 <wire x1="43.18" y1="40.894" x2="17.526" y2="40.894" width="0.1524" layer="26"/>
-<wire x1="17.526" y1="40.894" x2="16.51" y2="41.91" width="0.1524" layer="22" curve="-90"/>
+<wire x1="17.526" y1="40.894" x2="16.51" y2="41.91" width="0.1524" layer="26" curve="-90"/>
 <wire x1="16.51" y1="41.91" x2="16.51" y2="43.688" width="0.1524" layer="26"/>
 <wire x1="16.51" y1="43.688" x2="41.91" y2="43.688" width="0.1524" layer="26"/>
-<wire x1="41.91" y1="43.688" x2="43.18" y2="42.418" width="0.1524" layer="22" curve="-90"/>
+<wire x1="41.91" y1="43.688" x2="43.18" y2="42.418" width="0.1524" layer="26" curve="-90"/>
 <wire x1="43.18" y1="42.418" x2="43.18" y2="40.894" width="0.1524" layer="26"/>
 </plain>
 <libraries>
