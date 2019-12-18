@@ -6331,7 +6331,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf"&
 <wire x1="64.516" y1="186.69" x2="59.944" y2="186.69" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="GPIO0" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="96.52" y1="191.77" x2="96.52" y2="190.5" width="0.1524" layer="91"/>
